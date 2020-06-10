@@ -1,8 +1,6 @@
 <h1>Technical Writing One introduction</h1>
 Technical Writing One teaches you how to write clearer technical documentation.
 
-[TOC]
-
 <h2>Target audience</h2>
 You need at least a little writing proficiency in English, but you don't need to be a strong writer to take this course.
 
