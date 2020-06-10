@@ -20,6 +20,7 @@ This course focuses on several intermediate topics in technical writing. After c
 * Identify different documentation types.
 * Describe just about anything.
 * Empathize with a beginner audience and write a tutorial for them.
+
 It takes years of focused practice to become a great engineer or a great technical writer. This course will improve your technical writing but will not instantly transform you into a great technical writer.
 
 <h2>Pre-class and in-class components</h2>
