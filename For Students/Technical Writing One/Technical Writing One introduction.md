@@ -49,6 +49,7 @@ You need an internet connection to take the course. You cannot download the cour
 The course contains a few short videos, all of which are optional viewing. If you want to skip the videos, then you can take the course on a low-bandwidth internet connection.
 
 <h2>Optional units</h2>
+
 We've marked a few units as **optional**. This material isn't essential, though you'll probably find the material useful.
 
 **Next unit**: Just enough grammar, an optional unit
