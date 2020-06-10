@@ -1,6 +1,8 @@
 <h1>Technical Writing One introduction</h1>
 Technical Writing One teaches you how to write clearer technical documentation.
 
+[TOC]
+
 <h2>Target audience</h2>
 You need at least a little writing proficiency in English, but you don't need to be a strong writer to take this course.
 
@@ -29,7 +31,8 @@ This course teaches you the fundamentals of technical writing. After completing 
 * Break long topics into appropriate sections.
 * Use commas, parentheses, colons, em-dashes, and semicolons properly.
 * Develop beginner competency in Markdown.
-* It takes years of focused practice to become a great engineer or a great technical writer. This course will improve your technical writing but will not instantly transform you into a great technical writer.
+
+It takes years of focused practice to become a great engineer or a great technical writer. This course will improve your technical writing but will not instantly transform you into a great technical writer.
 
 <h2>Pre-class and in-class components</h2>
 The course consists of the following two components:
@@ -49,7 +52,6 @@ The course contains a few short videos, all of which are optional viewing. If yo
 
 <h2>Optional units</h2>
 We've marked a few units as **optional**. This material isn't essential, though you'll probably find the material useful.
-
 
 
 
