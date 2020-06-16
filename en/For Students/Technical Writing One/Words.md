@@ -68,6 +68,7 @@ Alternatively, you could decide that defining an acronym for such a short passag
 > Jeff Dean invented **MapReduce** in... This version of MapReduce held several...
 
 Incidentally, a more thorough technical writer would also convert "beach sand, wax-paper, a quill pen, and a toaster oven" into a bulleted list. However, that's another story for another lesson.
+
 ---
 
 <h2>Disambiguate pronouns</h2>
