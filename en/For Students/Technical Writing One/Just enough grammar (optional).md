@@ -7,6 +7,7 @@ This unit provides just enough grammar to understand the remainder of the course
 For simplicity's sake, this unit takes a few shortcuts; grammatical topics are actually wildly more complicated than this unit suggests.
 
 Grammarians don't all agree on the number or types of parts of speech. The following table focuses on the parts of speech relevant to this course:
+
 Part of Speech | Definition | Example
 --- | --- | ---
 Noun | a person, place, concept, or thing | **Sam** runs **races**.
@@ -151,6 +152,7 @@ For example, in the following passage, notice how the transitions connect and co
 > Juan is a wonderful coder. **However**, he rarely writes sufficient tests. **For example**, Juan coded a 5,000 line FFT package that contained only a single 10-line unit test.
 
 <h3>Exercise</h3>
+
 Fill in the most appropriate transition:
 
 >Barbara typically studies problems for a long time before writing the first line of code. _____________, she spontaneously coded a method the other day when she was suddenly inspired.
