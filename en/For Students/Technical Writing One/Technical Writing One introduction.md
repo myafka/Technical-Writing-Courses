@@ -9,7 +9,7 @@ If you've never taken any technical writing training, this course is perfect for
 <h2>Learning objectives</h2>
 This course teaches you the fundamentals of technical writing. After completing this class, you will know how to do the following:
 
-* Use terminology—including abbreviations and acronyms—consistently.
+* Use terminology — including abbreviations and acronyms — consistently.
 * Recognize and disambiguate pesky pronouns.
 * Distinguish active voice from passive voice.
 * Convert passive voice sentences to active voice.
@@ -52,4 +52,4 @@ The course contains a few short videos, all of which are optional viewing. If yo
 
 We've marked a few units as **optional**. This material isn't essential, though you'll probably find the material useful.
 
-**Next unit**: Just enough grammar, an optional unit
+**Next unit**: [Just enough grammar](Just%20enough%20grammar%20(optional).md), an optional unit
