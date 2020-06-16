@@ -2,7 +2,7 @@
 
 >Estimated Time: 10 minutes
 
-This unit provides just enough grammar to understand the remainder of the course. If you already know some grammar, move on to Words. Otherwise, read on.
+This unit provides just enough grammar to understand the remainder of the course. If you already know some grammar, move on to [Words](Words.md). Otherwise, read on.
 
 For simplicity's sake, this unit takes a few shortcuts; grammatical topics are actually wildly more complicated than this unit suggests.
 
@@ -164,4 +164,4 @@ The best transition for this situation is as follows:
 >However
 
 
-**Next unit**: Words
+**Next unit**: [Words](Words.md)
