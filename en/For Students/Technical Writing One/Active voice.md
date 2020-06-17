@@ -7,7 +7,7 @@ The vast majority of sentences in technical writing should be in active voice. T
 * Distinguish passive voice from active voice.
 * Convert passive voice to active voice because active voice is usually clearer.
 
-First, watch this video, just to get the ball rolling1:
+First, watch this video, just to get the ball rolling:
 
 
 <h2>Distinguish active voice from passive voice in simple sentences</h2>
