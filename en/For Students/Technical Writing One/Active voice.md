@@ -204,6 +204,6 @@ Rewrite the following passive voice sentences as active voice. Only part of cert
 4. Asterisks identify quality metrics; ampersands identify bad metrics.
 
 
-**Next unit**: Clear sentences
+**Next unit**: [Clear sentences](Clear%20sentences.md)
 
  
