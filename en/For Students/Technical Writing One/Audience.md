@@ -103,15 +103,16 @@ From the novice's point of view, the curse of knowledge is a "File not found" li
 <h3>Answer</h3>
 
 1. This paragraph suffers immensely from the curse of knowledge. The target audience has never programmed before, so the following terms are inappropriate or unfamiliar:
-  * language
-  * mid-level language
-  * assembly language
-  * Python
-  * Java
-  * program
-  * C Standard Library
-  * allocate and free blocks of memory
-  * pointers
+    * language
+    * mid-level language
+    * assembly language
+    * Python
+    * Java
+    * program
+    * C Standard Library
+    * allocate and free blocks of memory
+    * pointers
+    
 2. This paragraph also suffers from the curse of knowledge for the alternative audience. The average Python programmer is unaware of manipulating memory or pointers. A better introductory paragraph would compare and contrast C with Python.
 
 <h3>Simple words</h3>
@@ -144,8 +145,11 @@ Identify the problems with the following sentences:
 3. Be that as it may, you still have to write unit tests.
 
 <h3>Answer</h3>
+
 1. In some places in the world, **kosher** has become slang for "acceptable usage." Many readers, however, will wonder how religious dietary laws pertain to software.
+
 2. A **sticky wicket** is British slang, which does not travel well. Substituting the phrase **challenging problem** will fix this issue.
+
 3. **Be that as it may** is an idiom. Substituting the transition **However** will fix this problem.
 
 
