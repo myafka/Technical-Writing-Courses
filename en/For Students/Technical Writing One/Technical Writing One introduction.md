@@ -1,12 +1,15 @@
 <h1>Technical Writing One introduction</h1>
+
 Technical Writing One teaches you how to write clearer technical documentation.
 
 <h2>Target audience</h2>
+
 You need at least a little writing proficiency in English, but you don't need to be a strong writer to take this course.
 
 If you've never taken any technical writing training, this course is perfect for you. If you've taken technical writing training, this class provides an efficient refresher.
 
 <h2>Learning objectives</h2>
+
 This course teaches you the fundamentals of technical writing. After completing this class, you will know how to do the following:
 
 * Use terminology — including abbreviations and acronyms — consistently.
@@ -33,15 +36,19 @@ This course teaches you the fundamentals of technical writing. After completing 
 It takes years of focused practice to become a great engineer or a great technical writer. This course will improve your technical writing but will not instantly transform you into a great technical writer.
 
 <h2>Pre-class and in-class components</h2>
+
 The course consists of the following two components:
 
 * pre-class
+
 * in-class
+
 You are currently viewing the start of the pre-class component.
 
 The in-class component enhances the lessons taught in the pre-class components. That said, the pre-class lessons on their own still provide a valuable educational experience.
 
 <h2>Hardware and network requirements</h2>
+
 Although this course is optimized for a laptop or desktop, you may take the course on a tablet or phone. If you are taking the in-class component, please note that you'll type a lot.
 
 You need an internet connection to take the course. You cannot download the course. The course is not available on tangible media.
