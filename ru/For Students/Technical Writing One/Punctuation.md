@@ -1,4 +1,4 @@
-# Punctuation (optional)
+# Пунктуация (дополнительный)
 
 > Расчетное время: 5 минут
 
@@ -6,39 +6,39 @@
 
 ## Запятые
 
-Programming languages enforce clear rules about punctuation. In English, by contrast, the rules regarding commas are somewhat hazier. As a guideline, insert a comma wherever a reader would naturally pause somewhere within a sentence. For the musically inclined, if a period is a whole note rest, then a comma is perhaps a half-note or quarter-note rest. In other words, the pause for a comma is shorter than that for a period. For example, if you read the following sentence aloud, you probably rest briefly before the word *just*:
+В языках программирования установлены четкие правила пунктуации. В русском же, напротив, правила относительно запятых несколько более расплывчаты. В качестве ориентира вставляйте запятую там, где читатель естественным образом остановился бы в предложении. Для музыкально настроенных, если точка — это пауза целой ноты, то запятая, возможно, представляет собой паузу на половину или четверть. Другими словами, пауза для запятой короче, чем для точки. Например, если вы читаете вслух следующее предложение, вы, вероятно, ненадолго отдыхаете перед словом *всего*:
 
-> C behaves as a mid-level language, just a couple of steps up in abstraction from assembly language.
+> C ведет себя как язык среднего уровня, всего пара шагов в абстракции от языка ассемблер.
 
-Some situations *require* a comma. For example, use commas to separate items in an embedded list like the following:
+В некоторых ситуациях *требуется* запятая. Например, используйте запятые для разделения элементов во вложенном списке, как показано ниже:
 
 > Наша компания использует C ++, Python, Java и JavaScript.
 
-You might be wondering about a list's final comma, the one inserted between items N-1 and N. This comma—known as the **serial comma** or **Oxford comma** —is controversial. We recommend supplying that final comma simply because technical writing requires picking the least ambiguous solution. That said, we actually prefer circumventing the controversy by converting embedded lists into bulleted lists.
+Тем не менее, мы на самом деле предпочитаем преобразовывать вложенные списки в маркированные списки.
 
 В предложениях, выражающих условие, ставьте запятую между условием и следствием. Например, оба следующих предложения ставят запятую в правильном месте:
 
 > Если программа работает медленно, попробуйте флаг --perf.
 
-> If the program runs slowly, then try the --perf flag.
+> Если программа работает медленно, то попробуйте флаг --perf.
 
 Вы также можете вставить быстрое определение или отступление между запятыми, как в следующем примере:
 
 > Python, простой в использовании язык, в последние годы набирает обороты.
 
-Finally, avoid using a comma to paste together two independent thoughts. For example, the comma in the following sentence is guilty of a punctuation felony called a **comma splice**:
+Наконец, не используйте запятую для соединения двух независимых мыслей. Например, запятая в следующем предложении означает нарушение пунктуации, которое называется **соединяющей запятой** :
 
 > Саманта прекрасный программист, она пишет множество тестов.
 
 Для разделения двух независимых мыслей используйте точку, а не запятую. Например:
 
-> Samantha is a wonderful coder. She writes abundant tests.
+> Саманта прекрасный программист. Она пишет множество тестов.
 
 ### Упражнение
 
 При необходимости добавьте запятые к следующему отрывку:
 
-> Protocol Buffers sometimes known as protobufs are our team's main structured data format. Use Protocol Buffers to represent store and transfer structured data. Unlike XML Protocol Buffers are compiled. Consequently clients transmit Protocol Buffers efficiently which has led to rapid adoption.
+> Буферы протокола иногда известные как protobufs являются основным форматом структурированных данных нашей команды. Используйте буферы протокола для представления хранения и передачи структурированных данных. В отличие от протокола XML буферы компилируются. Следовательно клиенты эффективно передают буферы протокола что привело к быстрому внедрению.
 
 Подсказка: прочтите отрывок вслух и ставьте запятую везде, где вы слышите короткую паузу.
 
@@ -58,25 +58,25 @@ Finally, avoid using a comma to paste together two independent thoughts. For exa
 
 > Перезапустите Frambus после обновления файла конфигурации; не после обновления существующего исходного кода.
 
-Before using a semicolon, ask yourself whether the sentence would still make sense if you flipped the thoughts to opposite sides of the semicolon. For example, reversing the earlier example still yields a valid sentence:
+Прежде чем использовать точку с запятой, спросите себя, будет ли предложение по-прежнему иметь смысл, если вы переместите мысли на противоположные стороны точки с запятой. Например, если изменить первый пример в обратном порядке, то предложение будет верным:
 
 > Не запускайте заново Frambus после обновления существующего исходного кода; перезапустите Frambus после обновления файла конфигурации.
 
-You should almost always use commas, not semicolons, to separate items in an embedded list. For example, the following use of semicolons is incorrect:
+Для разделения элементов во вложенном списке почти всегда следует использовать запятые, а не точку с запятой. Например, следующее использование точки с запятой неверно:
 
 > Руководства по стилю больше луны; важнее кислорода; и совершенно непостижимо.
 
-Many sentences place a transition word or phrase immediately after the semicolon. In this situation, place a comma after the transition. Note the comma after the transition in the following two examples:
+Во многих предложениях вводное слово или фразу ставится сразу после точки с запятой. В этом случае после вводного слова поставьте запятую. Обратите внимание на запятую после вводного в следующих двух примерах:
 
-> Frambus provides no official open source package for string manipulation; however, subsets of string manipulation packages are available from other open source projects.
+> Frambus не предоставляет официального пакета с открытым исходным кодом для обработки строк; однако, подмножества пакетов обработки строк доступны из других проектов с открытым исходным кодом.
 
-> Even seemingly trivial code changes can cause bugs; therefore, write abundant unit tests.
+> Даже незначительные, на первый взгляд, изменения кода могут вызвать ошибки; следовательно, напишите обильные модульные тесты.
 
 ### Упражнение
 
 Какие из следующих точек или запятых вы можете заменить точкой с запятой?
 
-1. Python is a popular programming language. The C language was developed long before Python.
+1. Python — популярный язык программирования. Язык C был разработан задолго до Python.
 2. Обучение модели для низкого значения X показано на верхнем рисунке. Обучение модели для высокого значения X показано на нижнем рисунке.
 3. Я благодарен за свой большой монитор, мощный процессор и невероятную пропускную способность.
 
@@ -86,17 +86,17 @@ Many sentences place a transition word or phrase immediately after the semicolon
 2. Вы можете заменить точку в # 2 точкой с запятой, потому что эти два предложения очень связаны.
 3. Вы не можете преобразовывать запятые в # 3 в точку с запятой. Используйте запятые для разделения элементов во встроенном списке.
 
-## Em-Dashes
+## Тире (длинное тире)
 
-Em-dashes are compelling punctuation marks, rich with punctuation possibilities. An em-dash represents a longer pause—a bigger break—than a comma. If a comma is a quarter note rest, then an em-dash is a half-note rest. For example:
+Тире — это убедительный знак препинания, богатый возможностями. Тире означает более длинную паузу — больший перерыв, чем запятая. Если запятая — это пауза на четверть, то тире — это пауза на половину. Например:
 
-> C++ is a rich language—one requiring extensive experience to master.
+> C ++ — богатый язык, для освоения которого требуется большой опыт.
 
-Writers sometimes use a pair of em-dashes to block off a digression, as in the following example:
+Писатели иногда используют пару длинных тире, чтобы выделить отступление, как в следующем примере:
 
-> **Protocol Buffers** — often nicknamed **protobufs** — encode structured data in an efficient yet extensible format.
+> **Буферы протокола** — часто называемые **protobufs** — кодируют структурированные данные в эффективном, расширяемом формате.
 
-Could we have used commas instead of em-dashes in the preceding examples? Sure. Why did we choose an em-dash instead of a comma? Feel. Art. Experience. Remember—punctuation in English is squishy and malleable.
+Могли ли мы использовать запятые вместо длинных тире в предыдущих примерах? Конечно. Почему мы выбрали длинное тире вместо запятой? Ощущение. Искусство. Опыт. Помните — знаки препинания в языке мягкие и гибкие.
 
 ## Скобки
 
@@ -104,13 +104,13 @@ Could we have used commas instead of em-dashes in the preceding examples? Sure. 
 
 Правила относительно точек и скобок сбивают с толку многих писателей. Вот стандарты:
 
-- If a pair of parentheses holds an entire sentence, the period goes inside the closing parenthesis.
+- Если пара круглых скобок содержит всё предложение, точка помещается в закрывающую скобку.
 - Если пара скобок завершает предложение, но не содержит всего предложения, точка выходит за пределы закрывающей скобки.
 
 Например:
 
-> (Incidentally, Protocol Buffers make great birthday gifts.)
+> (Кстати, Protocol Buffers — отличный подарок на день рождения.)
 
 > Двоичный режим основан на более компактной собственной форме (описанной далее в этом документе).
 
-**Next unit**: [Markdown](Markdown.md)
+**Следующий блок**: [Markdown](Markdown.md)
