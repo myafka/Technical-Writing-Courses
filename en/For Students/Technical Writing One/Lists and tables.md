@@ -217,6 +217,7 @@ Python  | Guido van Rossum | 1994| simplicity
 Here are a couple of possible introductory sentences for the table:
 
 > The following table contains a few key facts about some popular programming languages:
+
 > The following table identifies the inventor, year of invention, and key feature of three popular programming languages:
 
 
