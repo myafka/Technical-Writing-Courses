@@ -1,4 +1,5 @@
-<h1>Overview of technical writing courses</h1>
+# Overview of technical writing courses
+
 The following table summarizes the technical writing courses:
 
 
