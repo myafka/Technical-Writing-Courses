@@ -1,10 +1,10 @@
-<h1>Lists and tables</h1>
+# Lists and tables
 
 > Estimated Time: 15 minutes
 
 Good lists can transform technical chaos into something orderly. Technical readers generally love lists. Therefore, when writing, seek opportunities to convert prose into lists.
 
-<h2>Choose the correct type of list</h2>
+## Choose the correct type of list
 
 The following types of lists dominate technical writing:
 
@@ -44,7 +44,7 @@ Generally speaking, embedded lists are a poor way to present technical informati
 > * Delete vicugnas.
 > * Track dromedaries.
 
-<h3>Exercise</h3>
+### Exercise
 
 Convert the following paragraph into one or more lists:
 
@@ -52,7 +52,7 @@ Convert the following paragraph into one or more lists:
 
 Don't forget to introduce your list(s).
 
-<h3>Answer</h3>
+### Answer
 
 Here's one possible answer:
 
@@ -79,7 +79,7 @@ The following is an alternative answer:
 >     1. Wash my car without using any water.
 >     2. Dry my car without using any towels.
 
-<h2>Keep list items parallel</h2>
+## Keep list items parallel
 
 What separates effective lists from defective lists? Effective lists are **parallel**; defective lists tend to be nonparallel. All items in a parallel list look like they "belong" together. That is, all items in a parallel list match along the following parameters:
 
@@ -110,7 +110,7 @@ The following list is parallel because all the items are complete sentences with
 
 The first item in a list establishes a pattern that readers expect to see repeated in subsequent items.
 
-<h3>Exercise</h3>
+### Exercise
 
 Is the following list parallel or nonparallel?
 
@@ -118,11 +118,11 @@ Is the following list parallel or nonparallel?
 * Potatoes taste delicious.
 * Cabbages.
 
-<h3>Answer</h3>
+### Answer
 
 The list is nonparallel. The first two items are complete sentences, but the third item is not a sentence. (Don't be fooled by the capitalization and punctuation of the third item.)
 
-<h3>Exercise</h3>
+### Exercise
 
 Is the following list parallel or nonparallel?
 
@@ -130,11 +130,11 @@ Is the following list parallel or nonparallel?
 * Immature trees are represented by the blue dots.
 * The green dots represent healthy trees.
 
-<h3>Answer</h3>
+### Answer
 
 This is a nonparallel list. The first and third items are in active voice, but the second item is in passive voice.
 
-<h2>Start numbered list items with imperative verbs</h2>
+## Start numbered list items with imperative verbs
 
 Consider starting all items in a numbered list with an imperative verb. An **imperative verb** is a command, such as **open** or **start**. For example, notice how all of the items in the following parallel numbered list begin with an imperative verb:
 
@@ -148,7 +148,7 @@ The following numbered list is nonparallel because two of the sentences start wi
 2. Invoke the Froobus.Salmonella() method.
 3. The process stalls.
 
-<h3>Exercise</h3>
+### Exercise
 
 Make the following list parallel. Ensure that each element in the result list begins with an imperative verb:
 
@@ -158,7 +158,7 @@ Make the following list parallel. Ensure that each element in the result list be
 4. When you are finished setting this parameter, save and close the configuration file
 5. now, start Frambus again.
 
-<h3>Answer</h3>
+### Answer
 
 The following is one possible answer:
 
@@ -168,7 +168,7 @@ The following is one possible answer:
 4. Save and close the configuration file.
 5. Restart Frambus.
 
-<h2>Punctuate items appropriately</h2>
+## Punctuate items appropriately
 
 If the list item is a sentence, use sentence capitalization and punctuation. Otherwise, do not use sentence capitalization and punctuation. For example, the following list item is a sentence, so we capitalized the **M** in **Most** and put a period at the end of the sentence:
 
@@ -178,7 +178,7 @@ However, the following list item is not a sentence, so we left the **t** in **th
 
 * the color of lemons
 
-<h2>Create useful tables</h2>
+## Create useful tables
 
 Analytic minds tend to love tables. Given a page containing multiple paragraphs and a single table, engineers' eyes zoom towards the table.
 
@@ -190,7 +190,7 @@ Consider the following guidelines when creating tables:
 
 > **Note**: Some tables don't render well across all form factors. For example, a table that looks great on your laptop may look awful on your phone.
 
-<h2>Introduce each list and table</h2>
+## Introduce each list and table
 
 We recommend introducing each list and table with a sentence that tells readers what the list or table represents. In other words, give the list or table context. Terminate the introductory sentence with a colon rather than a period.
 
@@ -202,7 +202,7 @@ Although not a requirement, we recommend putting the word **following** into the
 
 > The following table summarizes our product's features against our key competitors' features:
 
-<h3>Exercise</h3>
+### Exercise
 
 Write an introductory sentence for the following table:
 
@@ -212,7 +212,7 @@ Lisp  | John McCarthy | 1958 | recursion
 C++  | Bjarne Stroustrup | 1979 | OOP
 Python  | Guido van Rossum | 1994| simplicity
 
-<h3>Answer</h3>
+### Answer
 
 Here are a couple of possible introductory sentences for the table:
 
