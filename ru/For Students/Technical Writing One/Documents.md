@@ -4,17 +4,17 @@
 
 Вы можете писать предложения. Вы можете писать абзацы. Однако можно ли организовать все эти абзацы в единый документ?
 
-<h2>State your document's scope</h2>
+<h2>Укажите границы вашего документа</h2>
 
-A good document begins by defining its scope. For example:
+Хороший документ начинается с определения его границ. Например:
 
 > Этот документ описывает общий дизайн Project Frambus.
 
-A better document additionally defines its non-scope, that is, the topics not covered that the target audience might expect your document to cover. For example:
+Более качественный документ дополнительно определяет то, что выходит за его рамки, то есть не охваченные темы, которые целевая аудитория может ожидать от вашего документа. Например:
 
 > Этот документ не описывает дизайн соответствующей технологии, Project Froobus.
 
-These scope and non-scope statements benefit not only the reader but also the writer (you). While writing, if the contents of your document veer away from the scope statement, then you must either refocus your document or modify your scope statement. When reviewing your first draft, delete (or branch off to another document) any sections that don't help satisfy the scope statement.
+Эти утверждения о сфере применения документа полезны не только читателю, но и писателю (вам). Если во время написания содержимое вашего документа отклоняется от определенной области, вы должны либо переориентировать документ, либо изменить границы. При просмотре вашего первого черновика удалите (или перенесите в другой документ) все разделы, которые не соответствуют его сфере применения.
 
 <h2>Укажите свою аудиторию</h2>
 
@@ -22,21 +22,21 @@ These scope and non-scope statements benefit not only the reader but also the wr
 
 > Я написал этот документ для инженеров-тестировщиков, поддерживающих Project Frambus.
 
-Beyond the audience's role, a good audience declaration might also specify any prerequisite knowledge or experience. For example:
+Помимо роли, хорошее описание аудитории может также содержать любые предварительные знания или опыт. Например:
 
 > В этом документе предполагается, что вы понимаете умножение матриц и знаете, как приготовить действительно хорошую чашку чая.
 
-In some cases, the audience declaration must also specify prerequisite documents. For example:
+В некоторых случаях в описании аудитории также должны быть указаны предварительные документы. Например:
 
 > Вы должны прочитать «Проект Фрообус: Новая надежда» перед чтением этого документа.
 
-<h2>Establish your key points up front</h2>
+<h2>Определите ключевые моменты заранее</h2>
 
-Engineers and scientists are busy people who won't necessarily read all 76 pages of your design document. Imagine that your peers might only read the first paragraph of page one. When reviewing your documentation, ensure that the start of your document answers your readers' essential questions.
+Инженеры и ученые — занятые люди, которым не обязательно читать все 76 страниц вашего проектного документа. Представьте, что ваши коллеги могут прочитать только первый абзац первой страницы. При просмотре документации убедитесь, что начало документа отвечает на важные вопросы читателей.
 
-Professional writers focus considerable energy on page one to increase the odds of readers making it to page two. However, page one of any long document is the hardest page to write. Therefore, be prepared to revise page one many times.
+Профессиональные писатели уделяют много внимания первой странице, чтобы увеличить шансы читателей перейти на вторую. Однако сложнее всего написать первую страницу любого длинного документа. Поэтому будьте готовы переписывать первую страницу много раз.
 
-Always write an executive summary (a TL;DR) for long engineering documents. Although the executive summary must be very short, expect to spend a lot of time writing it. A boring or confusing executive summary is a red flag warning potential readers to stay away.
+Всегда составляйте резюме (краткое содержание) для длинных технических документов. Хотя резюме должно быть очень коротким, рассчитывайте потратить много времени на его написание. Скучное или запутанное резюме — это красный флаг, предупреждающий потенциальных читателей держаться подальше.
 
 <h2>Напишите для своей аудитории</h2>
 
@@ -52,7 +52,7 @@ Always write an executive summary (a TL;DR) for long engineering documents. Alth
 
 Например, предположим, что вы изобрели новый алгоритм сортировки. Следующий список содержит некоторые возможные ответы на предыдущие вопросы:
 
-- My target audience consists of all the software engineers in my organization.
+- Моя целевая аудитория  — это все инженеры-программисты в моей организации.
 
 - Большая часть моей целевой аудитории изучала алгоритмы сортировки в школе. Однако около 25% моей целевой аудитории не внедряли и не оценивали алгоритм сортировки в течение многих лет.
 
@@ -69,7 +69,7 @@ Always write an executive summary (a TL;DR) for long engineering documents. Alth
 
 1. Обзор алгоритма
 
-    a. Big O
+    а. «O» большое
 
     б. Реализация в псевдокоде
 
@@ -87,25 +87,25 @@ Always write an executive summary (a TL;DR) for long engineering documents. Alth
 
 <h2>Разбейте тему на разделы</h2>
 
-You modularize code into files, classes, and methods. Modular code is easier to read, understand, maintain, and reuse. Making your document modular gives you the same benefits. You probably have strong intuition about functional modularity in code, but how do you apply those principles to your writing?
+Вы разделяете код на файлы, классы и методы. Модульный код легче читать, понимать, поддерживать и повторно использовать. Создание модульного документа дает вам те же преимущества. Вероятно, у вас есть сильная интуиция относительно функциональной модульности кода, но как вы примените эти принципы к своему тексту?
 
 Представьте, что у вас есть пустая банка, которую вам нужно заполнить коллекцией из крупных камней, крупного гравия и песка. Как бы вы упаковали банку, чтобы в нее поместился весь материал? Конечно, сначала нужно положить большие камни, затем насыпать гравий и заполнить оставшееся воздушное пространство песком. Если вы попытаетесь сделать это в обратном порядке, у вас ничего не получится.
 
-Your reader’s head is much like an empty jar, and your information generally comes in three sizes: rocks, gravel, and sand. Sections are the rocks. You need to structure the space inside your reader’s jar-head with the rocks to accept the rest of the information.
+Голова вашего читателя очень похожа на пустую банку, и ваша информация обычно бывает трех размеров: камни, гравий и песок. Разделы — это камни. Вам нужно структурировать камнями пространство внутри банки-головы читателя, чтобы добавить остальную информацию.
 
-But how do you decide what is a big rock versus what is gravel? One strategy is to record yourself talking, or free-write, about your topic for a short amount of time—maybe just 2 to 5 minutes. Yes, this takes discipline. Examine what you produced. Did you do the following?
+Но как решить, что такое большой камень, а что — гравий? Одна из стратегий — записать, как вы говорите, или свободно писать на вашу тему в течение короткого промежутка времени — может быть, всего 2–5 минут. Да, это требует дисциплины. Изучите, что вы создали. Вы сделали следующее?
 
-- Describe concepts in vague, under-specified ways?
-- List the steps that your audience needs to complete to reach a goal?
-- Describe the permutations of properties that a system can express?
+- Описали поняти расплывчатыми, неконкретным образом?
+- Перечислили шаги, которые ваша аудитория должна выполнить для достижения цели?
+- Описали все изменения свойств, которые может демонстрировать система?
 
-The under-specified things that you referred to are probably the large concepts that structure your topic. If your talk didn’t do this, go back and try this structure.
+Неконкретные вещи, о которых вы упомянули, вероятно, являются крупными разделами, которые структурируют вашу тему. Если в вашем рассказе этого не произошло, вернитесь и повторите эту часть.
 
 <h3>Упражнение</h3>
 
-The following passage is the introductory paragraph for a document. List the titles of the sections that you would break this topic into.
+Следующий отрывок — это вводный абзац для документа. Перечислите заголовки разделов, на которые вы бы разбили эту тему.
 
-> AlienWarez is a large-scale machine learning system. AlienWarez is best at building models for high-dimensional, sparse feature spaces. AlienWarez automatically explores and learns feature crosses that explain your data. AlienWarez refers specifically to the model training system. You train a model by extracting features from your source (log) data, and writing a data source for the training system. The Seti infrastructure team also provides a complete serving system. You are responsible for starting your own serving cluster, and moving your model to serving. The Seti serving system can serve AlienWarez, Seti, and Sibyl models. This guide explains how to train a AlienWarez model, and how to serve the model in production.
+> AlienWarez — это масштабная система машинного обучения. AlienWarez лучше всего подходит для создания моделей для разреженных, большой размерности объектов. AlienWarez автоматически исследует и запоминает пересечения объектов, которые объясняют ваши данные. AlienWarez относится конкретно к системе обучения моделей. Вы обучаете модель, извлекая признаки из ваших исходных (залогированных) данных и записывая источник данных для обучающей системы. Команда инфраструктуры Seti также предоставляет полную систему обслуживания. Вы несете ответственность за запуск собственного обслуживающего кластера и переход вашей модели к обслуживанию. Система обслуживания Seti может обслуживать модели AlienWarez, Seti и Sibyl. В этом руководстве объясняется, как обучить модель AlienWarez и как использовать эту модель в производстве.
 
 <h3>Ответ</h3>
 
@@ -129,4 +129,4 @@ The following passage is the introductory paragraph for a document. List the tit
 
     d. ...
 
-**Next unit**: [Punctuation](Punctuation.md), an optional unit
+**Следующий блок**: [Пунктуация](Punctuation.md), дополнительный блок
