@@ -43,6 +43,7 @@ Inside many long technical sentences is a list yearning to break free. For examp
 > To alter the usual flow of a loop, you may use either a **break** statement (which hops you out of the current loop) or a **continue** statement (which skips past the remainder of the current iteration of the current loop).
 
 When you see the conjunction **or** in a long sentence, consider refactoring that sentence into a bulleted list. When you see an embedded list of items or tasks within a long sentence, consider refactoring that sentence into a bulleted or numbered list. For example, the preceding example contains the conjunction **or**, so let's convert that long sentence to the following bulleted list:
+
 ----
 
 To alter the usual flow of a loop, call one of the following statements:
