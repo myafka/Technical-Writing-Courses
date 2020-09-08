@@ -1,24 +1,24 @@
 <h1>Краткое содержание курса Техническая документация ступень один</h1>
 
-> Estimated Time: 1 minute
+> Расчетное время: 1 минута
 
 Курс Техническая документация ступень один охватывает следующие основные уроки технического документирования:
 
-- Use terms consistently.
-- Avoid ambiguous pronouns.
+- Используйте термины последовательно.
+- Избегайте неоднозначных местоимений.
 - Предпочитайте активный залог пассивному.
-- Pick specific verbs over vague ones.
-- Focus each sentence on a single idea.
-- Convert some long sentences to lists.
-- Eliminate unneeded words.
-- Use a numbered list when ordering is important and a bulleted list when ordering is irrelevant.
-- Keep list items parallel.
-- Start numbered list items with imperative words.
-- Introduce lists and tables appropriately.
-- Create great opening sentences that establish a paragraph's central point.
-- Focus each paragraph on a single topic.
-- Determine what your audience needs to learn.
-- Fit documentation to your audience.
-- Establish your document's key points at the start of the document.
+- Выбирайте конкретные глаголы вместо расплывчатых.
+- Сосредоточьте каждое предложение на одной идее.
+- Преобразуйте несколько длинных предложений в списки.
+- Удалите ненужные слова.
+- Используйте нумерованный список, когда порядок важен, и маркированный список, когда порядок не имеет значения.
+- Держите элементы списка параллельно.
+- Начинайте нумерованные элементы списка с повелительных слов.
+- Представляйте списки и таблицы соответствующим образом.
+- Создавайте отличные вступительные предложения, которые определяют центральную точку абзаца.
+- Сосредоточьте каждый абзац на одной теме.
+- Определите, чему должна научиться ваша аудитория.
+- Подбирайте документацию для своей аудитории.
+- Установите ключевые моменты вашего документа в начале документа.
 
-As time permits, consider reviewing these additional technical writing resources.
+Если позволяет время, подумайте об изучении этих дополнительных технических писательских ресурсов.
